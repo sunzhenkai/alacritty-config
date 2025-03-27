@@ -1,0 +1,8 @@
+[general]
+import = [
+    "~/.config/alacritty/3rd/alacritty-theme/themes/gruvbox_light.toml"
+]
+
+[font]
+normal.family = "JetBrainsMono Nerd Font"
+size = 16
